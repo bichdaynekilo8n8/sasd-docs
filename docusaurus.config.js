@@ -12,7 +12,11 @@ const config = {
   projectName: 'sasd-docs',
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
+  },
 
   i18n: {
     defaultLocale: 'vi',
@@ -48,7 +52,7 @@ const config = {
       title: 'SASD',
       logo: {
         alt: 'SASD Logo',
-        src: 'img/logo.svg',
+        src: 'img/sasd-logo.jpg',
       },
       style: 'dark',
       hideOnScroll: true,

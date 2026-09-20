@@ -1,0 +1,38 @@
+SASD DOCS — UI UPDATE
+=====================
+
+Nơi giải nén:
+E:\DOWNLOAD\sasd-docs
+
+LƯU Ý:
+- Giải nén và chọn ghi đè (Replace) các file trùng tên.
+- KHÔNG xóa thư mục node_modules.
+- KHÔNG cần chạy git init lại vì project hiện tại đã là Git repository.
+
+Sau khi giải nén, mở PowerShell tại E:\DOWNLOAD\sasd-docs và chạy:
+
+npm install
+npm run build
+
+Nếu BUILD thành công:
+
+git add .
+git commit -m "Redesign SASD documentation UI"
+git push
+
+GitHub Actions sẽ tự build và deploy GitHub Pages.
+
+Website:
+https://bichdaynekilo8n8.github.io/sasd-docs/
+
+Các thay đổi chính:
+- Nhận diện giao diện SASD: black/navy + gold.
+- Homepage mới theo phong cách official faction documentation.
+- Logo SASD thật được dùng trong navbar và homepage: static/img/sasd-logo.jpg
+- Quick search trên trang chủ.
+- Trang Rank có tìm kiếm + lọc Command / Field / Operator.
+- Trang kỷ luật có tìm kiếm + lọc Tick / Warning / hạ Rank.
+- Tối ưu responsive cho desktop/mobile.
+- Chuyển onBrokenMarkdownLinks sang markdown.hooks để bỏ cảnh báo deprecation.
+- Đồng bộ cấu hình GitHub Pages với tài khoản bichdaynekilo8n8.
+- Xóa type: module để tránh lỗi require.resolveWeak đã gặp trước đó.

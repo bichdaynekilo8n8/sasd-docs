@@ -1,24 +1,38 @@
 ---
-title: Teams
+title: Đơn vị chuyên trách
 sidebar_position: 3
 ---
 
-# Teams
+# Đơn vị chuyên trách
 
-## Đội 1
+## Human Resource Unit
 
-- Đội trưởng: **None**
-- SUP-1: **Minh Hungz**
-- Thành viên: Ryu, James Boan, Thuy day, Dvk isbest, Anh Teo
+**Phụ trách:** Dark Pyke
 
-## Đội 2
+- Quản lý hồ sơ và tình trạng nhân sự.
+- Hỗ trợ tuyển dụng, tiếp nhận và phân bổ thành viên.
+- Ghi nhận kỷ luật, hoạt động và thay đổi chức vụ.
 
-- Đội trưởng: **Whiskys XxX**
-- Support Team: **Huy Royal**
-- Thành viên: Gia baokaka, James Stellan, Bon gm, Bae Quynh, Hung Ly, Mikenco
+## Leader Team
 
-## Đội 3
+**Phụ trách:** Minh Hungz, ThaiTu NamKi
 
-- Đội trưởng: **None**
-- SUP-3: **Fushitguro Megumi**
-- Thành viên: Chuchim Benho, Nguyen Griffin, MuaHe Can, Tho Bao khanhkk, Tuan tuan
+- Chỉ huy và phân công nhiệm vụ cho thành viên.
+- Theo dõi hoạt động của đội.
+- Báo cáo kết quả cho Ban Chỉ Huy.
+
+## Support Team
+
+**Phụ trách:** Mikenco
+
+- Hỗ trợ Leader Team trong công tác điều phối.
+- Giải đáp quy trình cho thành viên.
+- Hỗ trợ nhân sự mới hòa nhập với Faction.
+
+## Team Teacher
+
+**Phụ trách:** James Boan, Huy Royal
+
+- Tổ chức Training và kiểm tra nghiệp vụ.
+- Hướng dẫn lệnh, quy trình và tình huống RP.
+- Đánh giá mức độ sẵn sàng của nhân sự tập sự.

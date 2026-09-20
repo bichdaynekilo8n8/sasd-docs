@@ -1,57 +1,50 @@
 ---
-title: Luật Xử Phạt Nội Bộ SASD
+title: Mức phạt & kỷ luật
 sidebar_position: 3
-description: Bảng xử phạt, hệ thống kỷ luật và quy định nộp phạt nội bộ SASD.
+description: Bảng mức phạt và hệ thống kỷ luật nội bộ SASD
 ---
 
-import DisciplineMatrix from '@site/src/components/DisciplineMatrix';
+# Mức phạt vi phạm
 
-# Luật Xử Phạt Nội Bộ SASD
+| Hành vi vi phạm | Hình thức xử lý |
+| --- | --- |
+| LTA / PG / BK / CR... | **5.000 Credits** |
+| DM / DM LS / Safezone / Khu vực cấm | **5.000 Credits** |
+| Abuse Faction | **10.000 Credits + 01 Tick** |
+| Abuse Bug | **10.000 Credits + 01 Tick** |
+| Hacking / CLEO | **100.000 Credits + Hạ 2 Rank + 01 Warning + 100.000 OOC** |
+| Không tôn trọng cấp trên / Chống lệnh | **10.000 Credits + 01 Tick** |
+| Không tuân thủ quy trình | **5.000 Credits** |
+| Thiếu tác phong | **5.000 Credits** |
+| Không Training / Hoạt động bắt buộc | **20.000 Credits + 01 Warning** |
+| Làm ảnh hưởng hình ảnh SASD | **20.000 Credits + 01 Tick** |
 
-<div className="sasd-callout">
-  <strong>Cập nhật: 10/09/2026</strong><br />
-  Áp dụng theo thông báo nội bộ hiện hành của SASD.
-</div>
+## Hệ thống kỷ luật
 
-## I. Bảng xử phạt
+| Tích lũy | Kết quả |
+| --- | --- |
+| **02 Tick** | **01 Warning** |
+| **02 Warning** | **Sa thải** |
 
-<DisciplineMatrix />
+## Thời hạn nộp phạt
 
-## II. Hệ thống kỷ luật
+Thành viên phải hoàn thành nộp phạt trong tối đa **07 ngày** kể từ khi có thông báo vi phạm.
 
-- **2 Tick = 1 Warning**
-- **2 Warning = Sa thải**
+## Hệ số theo chức vụ
 
-Hình thức xử lý có thể được áp dụng cùng với mức phạt Credits theo thông báo vi phạm.
-
-## III. Nộp phạt
-
-Thời hạn nộp phạt: tối đa **07 ngày** kể từ khi có thông báo vi phạm.
-
-## IV. Hệ số
-
-| Đối tượng | Hệ số |
+| Chức vụ | Hệ số |
 | --- | ---: |
-| Supervisor [5] trở lên | ×2 |
-| Leader | ×4 |
+| Supervisor `[5]` trở lên | **×2** |
+| Leader | **×4** |
 
-## V. Quy định ứng xử nội bộ
+:::caution
+Hành vi cố tình vi phạm, tái phạm hoặc gây hậu quả nghiêm trọng có thể chịu hình thức xử lý cao hơn bảng cơ bản.
+:::
 
-- Không đăng tải hình ảnh/nội dung 16+, bao gồm nội dung khiêu dâm, kinh dị, bạo lực hoặc phản cảm. → **Ban 7 ngày**.
-- Không xúc phạm, chửi bới, văng tục hoặc toxic với thành viên khác trong FAC. → **Ban 10 ngày** tùy mức độ vi phạm.
-- Không cố tình gây war, kích động, công kích hoặc tạo mâu thuẫn giữa các thành viên.
-- Trường hợp anh em thân thiết có thể đùa giỡn, nhưng phải dừng ngay khi đối phương cảm thấy khó chịu hoặc yêu cầu dừng.
-- **Nghiêm cấm scam, lừa đảo hoặc lợi dụng sự thiếu hiểu biết của thành viên khác để trục lợi.**
-- Hạn chế cho vay, mượn tiền, vật phẩm hoặc tài sản trong game. Giao dịch cá nhân các bên tự chịu trách nhiệm.
+## Quy trình xử lý
 
-## VI. Quy định ứng xử bên ngoài FAC
-
-- Khi đang là thành viên **SASD**, không cố tình **DM, gây sự hoặc tấn công người chơi khác một cách vô lý**.
-- Không xúc phạm, khiêu khích, toxic hoặc cố tình gây war với người ngoài làm ảnh hưởng hình ảnh và uy tín SASD.
-- **Nghiêm cấm scam dưới mọi hình thức.**
-- Không lợi dụng **chức vụ, quyền hạn hoặc danh nghĩa SASD** để đe dọa, ép buộc, lạm quyền hoặc gây thiệt hại cho người chơi khác.
-- Không tự ý kiện cáo, report hoặc tạo tranh chấp dưới danh nghĩa FAC khi chưa trao đổi với cấp trên. Trường hợp nghiêm trọng cần báo cáo và được duyệt trước.
-
-## VII. Lưu ý chung
-
-Mỗi thành viên đều đại diện cho hình ảnh của **SASD**. Các hành vi cố tình vi phạm, tái phạm nhiều lần hoặc gây ảnh hưởng nghiêm trọng đến tổ chức có thể bị **cảnh cáo, hạ cấp, đình chỉ hoặc loại khỏi FAC** tùy mức độ.
+1. **Ghi nhận:** Thu thập video, hình ảnh, thời gian và thông tin liên quan.
+2. **Xác minh:** Đối chiếu nội quy và lắng nghe các bên liên quan.
+3. **Quyết định:** Cấp có thẩm quyền ban hành hình thức xử lý.
+4. **Thông báo:** Gửi mức phạt, Tick hoặc Warning cho người vi phạm.
+5. **Lưu hồ sơ:** Lưu bằng chứng và quyết định để phục vụ tra cứu.

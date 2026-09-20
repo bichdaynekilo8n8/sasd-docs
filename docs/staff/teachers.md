@@ -1,24 +1,22 @@
 ---
-title: Teachers
+title: Đội ngũ huấn luyện
 sidebar_position: 3
 ---
 
-# Teachers
+# Team Teacher
 
-Đội ngũ Training hiện có thể được quản lý tại đây để dễ cập nhật.
+## Nhân sự
 
-## Teacher
+- **James Boan**
+- **Huy Royal**
 
-- Taji Gwang
-- Whiskys XxX
-- Kim Thu
+## Trách nhiệm
 
-## Assistant
+- Tổ chức Training cơ bản và đào tạo lại.
+- Hướng dẫn lệnh, quy trình, tác phong và kỹ năng RP.
+- Kiểm tra năng lực của Trainee Operator.
+- Ghi nhận kết quả và báo cáo lên cấp phụ trách.
 
-- Sylphy Greyrat
-- Minh Hungz
-- Tommy Ster
-
-:::info
-Bạn có thể chuyển danh sách này thành bảng có Avatar, Rank, nhiệm vụ và lịch Training sau này.
+:::tip
+Nội dung giảng dạy được quản lý trong mục **Huấn luyện** ở thanh bên.
 :::

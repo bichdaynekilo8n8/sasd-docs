@@ -5,15 +5,22 @@ sidebar_position: 2
 
 # Team & Support
 
-## Vai trò Team Leader
+## Human Resource Unit
 
-- Phân công thành viên.
-- Theo dõi hoạt động Team.
-- Hỗ trợ xử lý tình huống.
-- Tổ chức phối hợp trong các hoạt động chung.
+- **Dark Pyke**
 
-## Vai trò Support
+## Leader Team
 
-- Hỗ trợ Team Leader.
-- Điều phối nhân sự khi cần.
-- Hỗ trợ thành viên mới hòa nhập với Team.
+- **Minh Hungz**
+- **ThaiTu NamKi**
+
+## Support Team
+
+- **Mikenco**
+
+## Trách nhiệm chung
+
+- Phân công và theo dõi hoạt động của thành viên.
+- Hỗ trợ xử lý tình huống và giải đáp quy trình.
+- Báo cáo vấn đề vượt thẩm quyền cho Ban Chỉ Huy.
+- Duy trì tác phong và sự phối hợp trong lực lượng.

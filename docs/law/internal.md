@@ -1,52 +1,77 @@
 ---
-title: Quy Tắc Nội Bộ
+title: Quy định ứng xử
 sidebar_position: 1
-description: Quy tắc ứng xử, tác phong và nguyên tắc làm việc nội bộ SASD.
+description: Quy định ứng xử trong và ngoài Faction SASD
 ---
 
-# Quy Tắc Nội Bộ SASD
+# Quy định ứng xử SASD
 
-<div className="sasd-callout">
-  <strong>Nguyên tắc cốt lõi</strong><br />
-  Mọi thành viên phải tuân thủ pháp luật, quy định máy chủ và nội quy tổ chức; đồng thời giữ tác phong chuyên nghiệp và đúng vai trò khi on-duty.
-</div>
+Mỗi thành viên đều đại diện cho hình ảnh của **San Andreas Special Department**. Thành viên phải giữ thái độ đúng mực trong cách nói chuyện và hành xử, cả trong lẫn ngoài Faction.
 
-## I. Quy tắc chung
+## I. Ứng xử nội bộ
 
-- Tuân thủ pháp luật, quy định máy chủ và nội quy tổ chức.
-- Tôn trọng cấp trên, đồng đội và người dân trong mọi tình huống.
-- Giữ tác phong chuyên nghiệp, đúng vai trò khi làm nhiệm vụ (on-duty).
-- Nghiêm cấm lạm quyền, lợi dụng chức vụ vì mục đích cá nhân.
+### 1. Nội dung không phù hợp
 
-## II. Nội quy làm việc
+Không đăng tải hình ảnh hoặc nội dung **16+**, bao gồm nội dung khiêu dâm, kinh dị, bạo lực hoặc phản cảm.
 
-- Đi làm đúng giờ, đúng trang phục và trang bị theo quy định.
-- Chỉ sử dụng vũ khí, phương tiện khi được phép và đúng mục đích nhiệm vụ.
-- Báo cáo đầy đủ cho chỉ huy khi nhận nhiệm vụ, kết thúc ca hoặc có sự cố.
-- Không tự ý hành động, truy đuổi hoặc nổ súng khi chưa có căn cứ hợp lệ.
-- Giữ bí mật thông tin nội bộ và kế hoạch tác chiến của tổ chức.
+:::danger Xử lý
+Ban **07 ngày**.
+:::
 
-## III. Ứng xử trong và ngoài faction
+### 2. Xúc phạm và toxic
 
-### Trong faction
+Không xúc phạm, chửi bới, văng tục hoặc toxic với thành viên khác trong FAC.
 
-- Không đăng tải nội dung phản cảm hoặc vi phạm quy định hình ảnh của tổ chức.
-- Không xúc phạm, toxic hoặc cố tình tạo mâu thuẫn giữa các thành viên.
-- Không scam, lừa đảo hoặc lợi dụng thành viên khác để trục lợi.
-- Khi đùa giỡn phải biết giới hạn và dừng ngay khi người khác yêu cầu.
+:::danger Xử lý
+Ban **10 ngày**, tùy mức độ vi phạm.
+:::
 
-### Ngoài faction
+### 3. Gây mâu thuẫn
 
-- Không cố tình DM, gây sự hoặc tấn công người chơi khác một cách vô lý.
-- Không khiêu khích, toxic hoặc gây war làm ảnh hưởng hình ảnh SASD.
-- Không sử dụng chức vụ hoặc danh nghĩa SASD để đe dọa, ép buộc hoặc lạm quyền.
-- Không tự ý kiện cáo/report dưới danh nghĩa FAC khi chưa báo cáo cấp trên.
+- Không cố tình gây war, kích động, công kích hoặc tạo mâu thuẫn giữa các thành viên.
+- Anh em thân thiết có thể đùa giỡn nhưng phải biết giới hạn.
+- Khi đối phương cảm thấy khó chịu hoặc yêu cầu dừng, phải dừng ngay.
 
-## IV. Kỷ luật
+### 4. Scam và trục lợi
 
-- Vi phạm nhẹ: nhắc nhở, cảnh cáo hoặc phạt nội bộ.
-- Vi phạm trung bình: đình chỉ tạm thời, hạ cấp hoặc tước quyền hoạt động.
-- Vi phạm nghiêm trọng: sa thải khỏi tổ chức và xử lý theo luật RP/máy chủ.
-- Mọi hình thức kỷ luật được xem xét dựa trên bằng chứng và báo cáo.
+Nghiêm cấm scam, lừa đảo hoặc lợi dụng sự thiếu hiểu biết của thành viên khác để trục lợi.
 
-Chi tiết mức phạt: [Luật Xử Phạt Nội Bộ](./disciplinary).
+### 5. Vay mượn tài sản
+
+Hạn chế cho vay, mượn tiền, vật phẩm hoặc tài sản trong game. Mọi giao dịch cá nhân do các bên tự chịu trách nhiệm; tránh việc mượn xong không trả gây mất đoàn kết nội bộ.
+
+## II. Ứng xử bên ngoài FAC
+
+### 1. Không DM vô lý
+
+Khi đang là thành viên SASD, tuyệt đối không cố tình **DM, gây sự hoặc tấn công người chơi khác một cách vô lý**.
+
+:::warning Xử lý
+Vi phạm được xử lý theo luật server và quy định nội bộ FAC.
+:::
+
+### 2. Bảo vệ hình ảnh SASD
+
+Không xúc phạm, khiêu khích, toxic hoặc cố tình gây war với người ngoài làm ảnh hưởng đến hình ảnh và uy tín của SASD.
+
+### 3. Nghiêm cấm scam
+
+Nghiêm cấm scam dưới mọi hình thức.
+
+### 4. Không lạm quyền
+
+Không lợi dụng chức vụ, quyền hạn hoặc danh nghĩa SASD để đe dọa, ép buộc, lạm quyền hoặc gây thiệt hại cho người chơi khác.
+
+### 5. Quy trình kiện cáo
+
+Không tự ý kiện cáo, report hoặc tạo tranh chấp dưới danh nghĩa FAC khi chưa trao đổi với cấp trên. Trường hợp nghiêm trọng phải báo cáo và được duyệt trước khi tiến hành kiện.
+
+## III. Lưu ý chung
+
+- Hành vi cố tình vi phạm, tái phạm nhiều lần hoặc gây ảnh hưởng nghiêm trọng đến tổ chức có thể bị **cảnh cáo, hạ cấp, đình chỉ hoặc loại khỏi FAC**.
+- Tất cả thành viên có trách nhiệm đọc, hiểu và tuân thủ nội quy.
+- Khi chưa rõ cách xử lý, hãy báo cáo cấp trên thay vì tự ý giải quyết dưới danh nghĩa SASD.
+
+:::info Nguyên tắc
+**Honor • Duty • Integrity** — Danh dự, Nhiệm vụ, Chính trực.
+:::

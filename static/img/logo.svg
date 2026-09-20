@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
+  <defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#9ec2dc"/><stop offset="1" stop-color="#527997"/></linearGradient></defs>
+  <circle cx="60" cy="60" r="51" fill="#07131e" stroke="url(#g)" stroke-width="3"/>
+  <circle cx="60" cy="60" r="42" fill="none" stroke="#7e9fb9" stroke-opacity=".35"/>
+  <path d="M60 22l10 18 20 4-14 14 3 21-19-9-19 9 3-21-14-14 20-4z" fill="url(#g)"/>
+  <text x="60" y="68" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="900" fill="#07131e">SASD</text>
+</svg>

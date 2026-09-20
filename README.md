@@ -1,6 +1,15 @@
 # SASD Docs
 
-Website tài liệu SASD xây bằng Docusaurus.
+Website tài liệu SASD hoàn chỉnh xây bằng Docusaurus 3, tối ưu cho GitHub Pages.
+
+## Nội dung đã có
+
+- Trang chủ đen–vàng responsive, dùng logo SASD chính thức.
+- Quy định ứng xử trong và ngoài Faction.
+- Bảng mức phạt, Tick, Warning, thời hạn và hệ số chức vụ.
+- Hệ thống quân hàm từ Rank 0 đến Rank 12.
+- Danh sách nhân sự có tìm kiếm và lọc theo đơn vị.
+- Tài liệu cơ cấu tổ chức, huấn luyện và quy trình kỷ luật.
 
 ## Yêu cầu
 
@@ -24,8 +33,8 @@ npm run serve
 ## GitHub Pages
 
 1. Sửa `docusaurus.config.js`:
-   - `YOUR_USERNAME`
-   - `url`
+   - Đổi `YOUR_USERNAME` thành tên tài khoản GitHub của bạn.
+   - Kiểm tra lại `url`.
    - `baseUrl` nếu repository không phải `sasd-docs`.
 2. Push code lên branch `main`.
 3. GitHub → Settings → Pages → Source: **GitHub Actions**.
@@ -42,5 +51,8 @@ sasd-docs/
 ├─ static/img/
 ├─ docusaurus.config.js
 ├─ sidebars.js
+├─ package-lock.json
 └─ .github/workflows/deploy.yml
 ```
+
+Trang chủ lấy dữ liệu nhân sự từ mảng `departments` trong `src/pages/index.js`. Khi thay đổi nhân sự, nên cập nhật thêm các file trong `docs/staff/` và `docs/organization/structure.md`.

@@ -1,17 +1,22 @@
 import {themes as prismThemes} from 'prism-react-renderer';
 
 const config = {
-  title: 'SASD Documentation',
-  tagline: 'Serving the State, Protecting the People.',
+  title: 'San Andreas Special Department',
+  tagline: 'Honor • Duty • Integrity',
   favicon: 'img/favicon.svg',
 
-  url: 'https://bichdaynekilo8n8.github.io',
+  future: {
+    v4: true,
+  },
+
+  url: 'https://YOUR_USERNAME.github.io',
   baseUrl: '/sasd-docs/',
 
-  organizationName: 'bichdaynekilo8n8',
+  organizationName: 'YOUR_USERNAME',
   projectName: 'sasd-docs',
 
   onBrokenLinks: 'throw',
+
   markdown: {
     hooks: {
       onBrokenMarkdownLinks: 'warn',
@@ -29,7 +34,7 @@ const config = {
       {
         docs: {
           sidebarPath: './sidebars.js',
-          showLastUpdateTime: true,
+          showLastUpdateTime: false,
         },
         blog: false,
         theme: {
@@ -40,7 +45,7 @@ const config = {
   ],
 
   themeConfig: {
-    image: 'img/sasd-social-card.svg',
+    image: 'img/sasd/rank-system.png',
 
     colorMode: {
       defaultMode: 'dark',
@@ -49,21 +54,22 @@ const config = {
     },
 
     navbar: {
-      title: 'SASD',
+      title: 'SASD DOCUMENTATION',
       logo: {
         alt: 'SASD Logo',
-        src: 'img/sasd-logo.jpg',
+        src: 'img/sasd/logo-sasd.jpg',
       },
       style: 'dark',
       hideOnScroll: true,
       items: [
-        {to: '/', label: 'Home', position: 'left'},
-        {to: '/docs/introduction', label: 'Documents', position: 'left'},
-        {to: '/docs/training/basic', label: 'Training', position: 'left'},
-        {to: '/docs/law/internal', label: 'Law', position: 'left'},
-        {to: '/docs/staff/command', label: 'Staff', position: 'left'},
+        {to: '/', label: 'Trang chủ', position: 'left'},
+        {to: '/docs/introduction', label: 'Tài liệu', position: 'left'},
+        {to: '/docs/training/basic', label: 'Huấn luyện', position: 'left'},
+        {to: '/docs/law/internal', label: 'Nội quy', position: 'left'},
+        {to: '/docs/law/disciplinary', label: 'Mức phạt', position: 'left'},
+        {to: '/docs/staff/command', label: 'Nhân sự', position: 'left'},
         {
-          href: 'https://github.com/bichdaynekilo8n8/sasd-docs',
+          href: 'https://github.com/YOUR_USERNAME/sasd-docs',
           label: 'GitHub',
           position: 'right',
         },
@@ -76,21 +82,21 @@ const config = {
         {
           title: 'SASD',
           items: [
-            {label: 'Introduction', to: '/docs/introduction'},
-            {label: 'Organization', to: '/docs/organization/structure'},
-            {label: 'Training', to: '/docs/training/basic'},
+            {label: 'Giới thiệu', to: '/docs/introduction'},
+            {label: 'Cơ cấu tổ chức', to: '/docs/organization/structure'},
+            {label: 'Huấn luyện', to: '/docs/training/basic'},
           ],
         },
         {
-          title: 'Documents',
+          title: 'Tài liệu',
           items: [
-            {label: 'Law', to: '/docs/law/internal'},
-            {label: 'Ranks', to: '/docs/organization/ranks'},
-            {label: 'Staff', to: '/docs/staff/command'},
+            {label: 'Nội quy', to: '/docs/law/internal'},
+            {label: 'Quân hàm', to: '/docs/organization/ranks'},
+            {label: 'Nhân sự', to: '/docs/staff/command'},
           ],
         },
       ],
-      copyright: `SASD Documentation • Serving the State, Protecting the People.`,
+      copyright: `SASD Documentation • Honor • Duty • Integrity`,
     },
 
     prism: {

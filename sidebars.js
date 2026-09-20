@@ -3,7 +3,7 @@ const sidebars = {
     'introduction',
     {
       type: 'category',
-      label: '🏛️ Tổ chức SASD',
+      label: 'Tổ chức SASD',
       collapsed: false,
       items: [
         'organization/structure',
@@ -13,7 +13,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: '🎓 Training',
+      label: 'Huấn luyện',
       collapsed: false,
       items: [
         'training/basic',
@@ -24,7 +24,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: '📜 Law & Regulations',
+      label: 'Nội quy & kỷ luật',
       collapsed: false,
       items: [
         'law/internal',
@@ -34,7 +34,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: '👮 Staff',
+      label: 'Nhân sự',
       collapsed: false,
       items: [
         'staff/command',

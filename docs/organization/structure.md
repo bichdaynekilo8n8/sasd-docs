@@ -1,8 +1,3 @@
----
-title: Cơ cấu tổ chức
-sidebar_position: 1
----
-
 # Cơ cấu tổ chức SASD
 
 ## Ban Chỉ Huy và các đơn vị

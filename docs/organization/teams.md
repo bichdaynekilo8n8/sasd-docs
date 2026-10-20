@@ -10,7 +10,7 @@
 
 ## Leader Team
 
-**Phụ trách:** Minh Hungz, ThaiTu NamKi
+**Phụ trách:** Minh Hungz
 
 - Chỉ huy và phân công nhiệm vụ cho thành viên.
 - Theo dõi hoạt động của đội.
@@ -18,15 +18,15 @@
 
 ## Support Team
 
-**Phụ trách:** Mikenco
+**Phụ trách:** Mikenco, Huy Royal
 
 - Hỗ trợ Leader Team trong công tác điều phối.
 - Giải đáp quy trình cho thành viên.
 - Hỗ trợ nhân sự mới hòa nhập với Faction.
 
-## Team Teacher
+## Team Teacher & Trợ giảng
 
-**Phụ trách:** James Boan, Huy Royal
+**Phụ trách:** Huy Royal & Johnny Thuan, Adam Duong, Thanh Linh
 
 - Tổ chức Training và kiểm tra nghiệp vụ.
 - Hướng dẫn lệnh, quy trình và tình huống RP.

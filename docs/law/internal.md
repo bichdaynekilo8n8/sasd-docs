@@ -1,9 +1,3 @@
----
-title: Quy định ứng xử
-sidebar_position: 1
-description: Quy định ứng xử trong và ngoài Faction SASD
----
-
 # Quy định ứng xử SASD
 
 Mỗi thành viên đều đại diện cho hình ảnh của **San Andreas Special Department**. Thành viên phải giữ thái độ đúng mực trong cách nói chuyện và hành xử, cả trong lẫn ngoài Faction.

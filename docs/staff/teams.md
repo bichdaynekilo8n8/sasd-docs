@@ -12,11 +12,11 @@ sidebar_position: 2
 ## Leader Team
 
 - **Minh Hungz**
-- **ThaiTu NamKi**
 
 ## Support Team
 
 - **Mikenco**
+- **Huy Royal** 
 
 ## Trách nhiệm chung
 

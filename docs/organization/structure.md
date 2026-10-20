@@ -14,6 +14,7 @@ sidebar_position: 1
 | **Leader Team** | Minh Hungz |
 | **Support Team** | Mikenco |
 | **Team Teacher** | Huy Royal |
+| **Team Trợ giảng** | Johnny Thuan, Adam Duong, Thanh Linh |
 
 ## Thành viên
 

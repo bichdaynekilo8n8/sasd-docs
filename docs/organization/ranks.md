@@ -1,7 +1,5 @@
 # Hệ thống quân hàm SASD
 
-![Bảng hệ thống quân hàm SASD]
-
 | Rank | Chức danh | Mô tả trách nhiệm |
 | ---: | --- | --- |
 | 12 | **Head Commander — Tổng Chỉ Huy** | Đứng đầu lực lượng; chịu trách nhiệm cao nhất về chiến lược, phát triển, tổ chức và kỷ luật. |

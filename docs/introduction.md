@@ -24,7 +24,3 @@ Trang tài liệu tập trung các nội dung phục vụ vận hành faction:
 - **Honor — Danh dự:** Mỗi thành viên bảo vệ uy tín của lực lượng bằng hành vi của mình.
 - **Duty — Nhiệm vụ:** Thực hiện đúng trách nhiệm, quy trình và mệnh lệnh hợp lệ.
 - **Integrity — Chính trực:** Công bằng, trung thực và không lợi dụng danh nghĩa SASD để trục lợi.
-
-:::tip Gợi ý sử dụng
-Dùng thanh điều hướng hoặc thanh tìm kiếm để truy cập nhanh nội dung cần thiết.
-:::

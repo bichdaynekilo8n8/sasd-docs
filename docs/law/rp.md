@@ -19,5 +19,4 @@ Mọi tình huống nên được giải quyết theo bối cảnh roleplay và 
 - Thời gian xảy ra.
 - Người tham gia.
 - Tóm tắt diễn biến.
-
 Không chỉnh sửa nội dung bằng chứng theo cách làm mất ngữ cảnh.

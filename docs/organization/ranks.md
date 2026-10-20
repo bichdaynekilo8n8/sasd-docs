@@ -17,7 +17,3 @@
 | 2 | **Senior Operator — Sĩ Quan Cao Cấp** | Xử lý độc lập tình huống phức tạp và hỗ trợ đào tạo nhân sự mới. |
 | 1 | **Operator — Sĩ Quan** | Thực hiện tuần tra, phản ứng ban đầu và các nhiệm vụ thường nhật. |
 | 0 | **Trainee Operator — Nhân Sự Tập Sự** | Học quy trình, tác phong và tiêu chuẩn nghiệp vụ trước khi trở thành sĩ quan chính thức. |
-
-:::info
-Quyền hạn thực tế của từng Rank được áp dụng theo nội quy và phân công hiện hành của Ban Chỉ Huy.
-:::

@@ -1,6 +1,6 @@
 # Hệ thống quân hàm SASD
 
-![Bảng hệ thống quân hàm SASD](/img/sasd/rank-system.png)
+![Bảng hệ thống quân hàm SASD]
 
 | Rank | Chức danh | Mô tả trách nhiệm |
 | ---: | --- | --- |

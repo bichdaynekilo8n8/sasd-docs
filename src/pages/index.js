@@ -86,15 +86,18 @@ const penalties = [
 const departments = [
   {name: 'Head Commander', level: 'Bộ chỉ huy', members: ['Alvin', 'Elisss', 'Roxyyy']},
   {name: 'Human Resource Unit', level: 'Nhân sự', members: ['Dark Pyke']},
-  {name: 'Leader Team', level: 'Chỉ huy đội', members: ['Minh Hungz', 'ThaiTu NamKi']},
-  {name: 'Support Team', level: 'Hỗ trợ', members: ['Mikenco']},
-  {name: 'Team Teacher', level: 'Huấn luyện', members: ['James Boan', 'Huy Royal']},
+  {name: 'Leader Team', level: 'Chỉ huy đội', members: ['Minh Hungz']},
+  {name: 'Support Team', level: 'Hỗ trợ', members: ['Mikenco', 'Huy Royal']},
+  {name: 'Team Teacher', level: 'Huấn luyện', members: ['Huy Royal']},
+  {name: 'Team Trợ giảng', level: 'Huấn luyện', members: ['Johnny Thuan', 'Adam Duong', 'Thanh Linh']},
   {
     name: 'Thành viên',
     level: 'Lực lượng',
     members: [
-      'Phat Em', 'Locsoda Vn', 'Thanh Linhh', 'PhucAnh Gamer', 'Bun Yeudau',
-      'Aniki Keen', 'Whiskys XxX', 'Nova Yuiu', 'Adam Duong', 'Adi Das', 'Gm Chuot',
+      'Phat Em', 'Ben Ben', 'Johnny Bao', 'PhucAnh Gamer', 'Bun Dangcap',
+      'Aniki Keen', 'Whiskys XxX', 'Babi Bu', 'Cam Ranh', 'God Duy', 'Gm Chuot',
+      'Duck Khhung', 'Lusy Gaming', 'Mua Buon', 'Sully VN', 'Henry Blake', 'Kiwi Rin',
+      'Tien Zz', 'Hung Ly'
     ],
   },
 ];

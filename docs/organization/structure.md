@@ -43,7 +43,3 @@ sidebar_position: 1
 ## Mô hình vận hành
 
 **Head Commander → Human Resource Unit → Leader Team → Support / Teacher → Thành viên**
-
-:::info Cập nhật nhân sự
-Khi có thay đổi, cập nhật đồng thời trang này, mục **Staff** và mảng `departments` trong `src/pages/index.js` để trang chủ luôn thống nhất.
-:::

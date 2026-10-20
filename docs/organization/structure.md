@@ -11,23 +11,33 @@ sidebar_position: 1
 | --- | --- |
 | **Head Commander** | Alvin, Elisss, Roxyyy |
 | **Human Resource Unit** | Dark Pyke |
-| **Leader Team** | Minh Hungz, ThaiTu NamKi |
+| **Leader Team** | Minh Hungz |
 | **Support Team** | Mikenco |
-| **Team Teacher** | James Boan, Huy Royal |
+| **Team Teacher** | Huy Royal |
 
 ## Thành viên
 
-- Phat Em
-- Locsoda Vn
+- Ben Benn
+- Johnny Bao
+- BaBi Bu
 - Thanh Linhh
-- PhucAnh Gamer
-- Bun Yeudau
-- Aniki Keen
-- Whiskys XxX
-- Nova Yuiu
 - Adam Duong
-- Adi Das
-- Gm Chuot
+- Cam Ranh
+- Johnny Thuan
+- ᴋɪʙᴏ x
+- God Duy
+- Duck khhung
+- Phat Em
+- Aniki Keen
+- Lusy Gaming
+- Mua Buon
+- Sully
+- Henry
+- Kiwa Rin
+- Satan Kumalala
+- PhucAnh Gamer
+- Hung Ly
+- Mikenco
 
 ## Mô hình vận hành
 

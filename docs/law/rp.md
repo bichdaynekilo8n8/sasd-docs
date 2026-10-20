@@ -1,8 +1,3 @@
----
-title: RP Law
-sidebar_position: 2
----
-
 # RP Law
 
 ## Nguyên tắc cơ bản

@@ -1,8 +1,3 @@
----
-sidebar_position: 1
-title: Giới thiệu SASD
----
-
 # San Andreas Special Department
 
 > **Honor • Duty • Integrity**

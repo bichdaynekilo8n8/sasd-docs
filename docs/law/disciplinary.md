@@ -1,9 +1,3 @@
----
-title: Mức phạt & kỷ luật
-sidebar_position: 3
-description: Bảng mức phạt và hệ thống kỷ luật nội bộ SASD
----
-
 # Mức phạt vi phạm
 
 | Hành vi vi phạm | Hình thức xử lý |

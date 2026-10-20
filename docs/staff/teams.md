@@ -1,8 +1,3 @@
----
-title: Team & Support
-sidebar_position: 2
----
-
 # Team & Support
 
 ## Human Resource Unit

@@ -1,9 +1,3 @@
----
-title: Hệ thống quân hàm
-sidebar_position: 2
-description: Hệ thống quân hàm SASD từ Rank 0 đến Rank 12
----
-
 # Hệ thống quân hàm SASD
 
 ![Bảng hệ thống quân hàm SASD](/img/sasd/rank-system.png)

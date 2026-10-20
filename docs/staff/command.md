@@ -1,8 +1,3 @@
----
-title: Ban Chỉ Huy
-sidebar_position: 1
----
-
 # Ban Chỉ Huy SASD
 
 ## Head Commander
